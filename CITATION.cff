@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 type: software
-title: "<TITLE>"
-abstract: "<DESCRIPTION>"
-repository-code: "https://github.com/Malix-Labs/REPOSITORY"
-license: AGPL-3.0-or-later
+title: "Nix Lib Strings Extra"
+abstract: "An extension of Nix lib for strings"
+repository-code: "https://github.com/Malix-Labs/nix_lib-strings-extra"
+license: MIT
 authors:
   - alias: "Malix"
     family-names: "Brunet"
